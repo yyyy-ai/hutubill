@@ -5,7 +5,7 @@ import javax.swing.JButton;
 import javax.swing.JPanel;
 import javax.swing.JToolBar;
 
-import gui.gui.listener.ToolBarListener;
+import gui.listener.ToolBarListener;
 import util.CenterPanel;
 import util.GUIUtil;
 public class MainPanel extends JPanel {
