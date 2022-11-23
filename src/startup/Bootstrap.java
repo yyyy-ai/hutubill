@@ -17,6 +17,7 @@ public class Bootstrap {
                 MainFrame.instance.setVisible(true);
                 MainPanel.instance.workingPanel.show(SpendPanel.instance);
             }
+            //测试push
         });
     }
 }
