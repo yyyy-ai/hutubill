@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 public class GUIUtil {
-    private static String imageFolder = "e:/project/hutubill/img";
+    private static String imageFolder = "D:\\Project\\hutubill\\img";
 
     public static void setImageIcon(JButton b, String fileName, String tip) {
         ImageIcon i = new ImageIcon(new File(imageFolder, fileName).getAbsolutePath());
